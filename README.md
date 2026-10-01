@@ -18,17 +18,17 @@
 Search the project for `TODO` to find every placeholder.
 
 ## Publish on GitHub Pages
-1. Create a GitHub repository named `USERNAME.github.io` (your GitHub username).
+1. Create a GitHub repository named `dzhigunov.github.io` (your GitHub username).
 2. In this folder:
    ```
    git init -b main
    git add .
    git commit -m "Initial site"
-   git remote add origin https://github.com/USERNAME/USERNAME.github.io.git
+   git remote add origin https://github.com/dzhigunov/dzhigunov.github.io.git
    git push -u origin main
    ```
 3. On GitHub: Settings → Pages → Source → **GitHub Actions**.
-4. Every push to `main` now rebuilds the site at `https://USERNAME.github.io`.
+4. Every push to `main` now rebuilds the site at `https://dzhigunov.github.io`.
 
 If you add pages with Python/Julia code cells, run `quarto render` locally and
 commit the `_freeze/` folder so GitHub does not need to re-run your code.

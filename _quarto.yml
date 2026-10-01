@@ -4,8 +4,7 @@ project:
 
 website:
   title: "Dmitriy Zhigunov"
-  # TODO: set to your real address once the site is live (e.g. https://USERNAME.github.io)
-  site-url: "https://USERNAME.github.io"
+  site-url: "https://dzhigunov.github.io"
   description: "Academic website of Dmitriy Zhigunov: fluid dynamics, turbulence, publications and talks."
   navbar:
     left:
@@ -19,7 +18,7 @@ website:
         href: affiliations.qmd
     right:
       - icon: github
-        href: https://github.com/USERNAME   # TODO
+        href: https://github.com/dzhigunov
         aria-label: GitHub
   page-footer:
     center: "© Dmitriy Zhigunov · Built with [Quarto](https://quarto.org)"
