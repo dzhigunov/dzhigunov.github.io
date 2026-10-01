@@ -4,6 +4,7 @@ title: "Affiliations & links"
 
 ## Current
 
+- [Page Research Group](https://www.jacob-page.com/), University of Edinburgh
 - [School of Mathematics, University of Edinburgh](https://maths.ed.ac.uk)
 
 ## Previous
@@ -14,7 +15,7 @@ title: "Affiliations & links"
 
 ## Collaborators
 
-- Jacob Page, University of Edinburgh
+- [Jacob Page](https://www.jacob-page.com/), University of Edinburgh
 - Rich Kerswell, University of Cambridge
 - [Roman Grigoriev](https://cns.gatech.edu/~roman/), Georgia Institute of Technology
 

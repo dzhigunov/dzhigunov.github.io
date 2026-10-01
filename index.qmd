@@ -6,7 +6,7 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:dmitriy.zhigunov@gmail.com
+      href: mailto:dmitriy.zhigunov@ed.ac.uk
     - icon: mortarboard-fill
       text: Google Scholar
       href: https://scholar.google.com/citations?user=atFNngMAAAAJ
@@ -18,7 +18,7 @@ about:
 I am a researcher studying the dynamical systems view of fluid turbulence. I am
 primarily interested in finding special solutions of the equations of fluid
 mechanics that give insight into the physical mechanisms underpinning turbulent
-flows.
+flows. I am currently a postdoc in [Jacob Page's group](https://www.jacob-page.com/) at the University of Edinburgh.
 
 ## Research interests
 
@@ -41,16 +41,5 @@ MS in Mathematics · 2017 – 2023
 **The College of William & Mary**  
 BS in Physics and BS in Mathematics · 2013 – 2017
 
-## Teaching
 
-Teaching assistant at Georgia Tech: labs and recitations for introductory
-mechanics and electricity & magnetism (in person and online), and grading and
-office hours for undergraduate electrodynamics, undergraduate and graduate
-mathematical methods, and undergraduate relativity.
-
-## Awards
-
-- SGA Conference Fund · 2023
-- Weatherly Travel Award · 2022, 2023
-- Presidential Fellowship · 2017
 - Serco Scholars Fellowship · 2016
