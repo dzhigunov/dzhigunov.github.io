@@ -1,5 +1,5 @@
 ---
-title: "Publications & talks"
+title: "Publications"
 listing:
   id: pubs
   contents: publications.yml
@@ -14,15 +14,4 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=atFNngMAAAAJ)
 :::{#pubs}
 :::
 
-# Conference presentations
 
-- **D. Zhigunov** and J. Page, "Spatial tiling of exact coherent states in large-scale Kolmogorov flow," *Annual Meeting of the APS Division of Fluid Dynamics*, 2025
-- **D. Zhigunov** and J. Page, "Spatial tiling and localized shadowing in 2D Kolmogorov flow," *European Fluid Dynamics Conference*, 2025
-- **D. Zhigunov** and J. Page, "Spatial tiling and localized shadowing in 2D Kolmogorov flow," *Scottish Fluid Mechanics Meeting*, 2025
-- **D. Zhigunov** and J. Page, "Spatial tiling and localized shadowing in 2D Kolmogorov flow," *Euromech Colloquium on Data-Driven Fluid Dynamics & 2nd ERCOFTAC Workshop on Machine Learning for Fluid Dynamics*, 2025
-- **D. Zhigunov** and R. O. Grigoriev, "Coherent structures and the direct cascade in 2D turbulence," *Annual Meeting of the APS Division of Fluid Dynamics*, 2023
-- **D. Zhigunov** and R. O. Grigoriev, "Exact coherent structures in the 2D Euler equation," *Annual Meeting of the APS Division of Fluid Dynamics*, 2022
-- **D. Zhigunov** and R. O. Grigoriev, "The mystery of fluid turbulence: cascades, self-similarity, and fractals," *Dynamics Days*, 2022
-- **D. Zhigunov** and R. O. Grigoriev, "Self-similarity and the direct cascade in two-dimensional turbulence," *Annual Meeting of the APS Division of Fluid Dynamics*, 2020
-- **D. Zhigunov** and Y. M. Chung, "(Un)stable manifold computation via forward-backward iteration," *Joint Mathematics Meetings*, 2017
-- **D. Zhigunov** and Y. M. Chung, "(Un)stable manifold computation via fixed point iteration," *Shenandoah Undergraduate Mathematics and Statistics Conference*, 2016

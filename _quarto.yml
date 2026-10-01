@@ -10,12 +10,11 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Publications & talks"
-        href: publications/index.qmd
       - text: "Research"
         href: research/index.qmd
-      - text: "Affiliations"
-        href: affiliations.qmd
+      - text: "Publications"
+        href: publications/index.qmd
+      
     right:
       - icon: github
         href: https://github.com/dzhigunov

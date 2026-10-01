@@ -18,7 +18,7 @@ about:
 I am a researcher studying the dynamical systems view of fluid turbulence. I am
 primarily interested in finding special solutions of the equations of fluid
 mechanics that give insight into the physical mechanisms underpinning turbulent
-flows. I am currently a postdoc in [Jacob Page's group](https://www.jacob-page.com/) at the University of Edinburgh.
+flows. I am currently a postdoc in [Jacob Page's group](https://www.jacob-page.com/) at the University of Edinburgh. Previously I was a PhD student with [Roman Grigoriev](https://cns.gatech.edu/~roman/) at Georgia Tech.
 
 ## Research interests
 
