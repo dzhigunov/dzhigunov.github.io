@@ -1,0 +1,17 @@
+---
+title: "TODO: Example visualisation"
+description: "TODO: one-line description shown on the card."
+date: 2026-10-01
+image: thumbnail.svg
+---
+
+TODO: replace this page with a real visualisation. Things that work here:
+
+- **Images and figures**: `![Caption](figure.png)`
+- **Videos**: `{{{< video simulation.mp4 >}}}` or a YouTube link
+- **Maths**: $\partial_t \omega + \mathbf{u}\cdot\nabla\omega = \nu\nabla^2\omega + f$
+- **Computed plots**: Python or Julia code cells (matplotlib, plotly, …).
+  Render once on your own machine; results are cached in `_freeze/`, so the
+  website build does not need your simulation environment.
+
+![Placeholder figure](thumbnail.svg){width=60%}

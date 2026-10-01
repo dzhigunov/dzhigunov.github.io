@@ -1,0 +1,12 @@
+---
+title: "Research & visualisations"
+listing:
+  contents: "*/index.qmd"
+  type: grid
+  grid-columns: 2
+  sort: "date desc"
+  fields: [image, title, description]
+---
+
+Figures, animations and short explanations of things I work on. Each card is a
+folder inside `research/`; copy `example-visualisation` to add a new one.

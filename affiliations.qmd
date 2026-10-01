@@ -1,0 +1,21 @@
+---
+title: "Affiliations & links"
+---
+
+## Current
+
+- [School of Mathematics, University of Edinburgh](https://maths.ed.ac.uk)
+
+## Previous
+
+- [School of Physics, Georgia Institute of Technology](https://physics.gatech.edu)
+- [Center for Nonlinear Science, Georgia Tech](https://cns.gatech.edu)
+- [The College of William & Mary](https://www.wm.edu)
+
+## Collaborators
+
+- Jacob Page, University of Edinburgh
+- Rich Kerswell, University of Cambridge
+- [Roman Grigoriev](https://cns.gatech.edu/~roman/), Georgia Institute of Technology
+
+<!-- TODO: add links for collaborators, and any societies or networks you belong to. -->

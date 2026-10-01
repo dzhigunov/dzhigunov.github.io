@@ -1,0 +1,41 @@
+# One entry per paper, newest first. Only `title`, `authors` and `year` are
+# required; leave out any link you don't have.
+#   status: optional label, e.g. "preprint", "submitted", "accepted"
+#   links:  doi, arxiv, pdf, code
+
+- title: "Extending the dynamical systems view of turbulence to large domains"
+  authors: "D. Zhigunov, R. Kerswell, J. Page"
+  year: 2026
+  venue: "Proceedings of the 14th International Symposium on Turbulence and Shear Flow Phenomena"
+
+- title: "Exact coherent structures as building blocks of turbulence on spatially extended domains"
+  authors: "D. Zhigunov, J. Page"
+  year: 2026
+  venue: "Physical Review Letters"
+  status: accepted
+  # arxiv: "TODO"
+
+- title: "Self-similarity and the direct (enstrophy) cascade in forced two-dimensional fluid turbulence"
+  authors: "M. Reynoso, D. Zhigunov, R. O. Grigoriev"
+  year: 2024
+  venue: "Journal of Fluid Mechanics 995, A4"
+  doi: "10.1017/jfm.2024.653"
+  arxiv: "2308.03007"
+
+- title: "Exact coherent structures in fully developed two-dimensional turbulence"
+  authors: "D. Zhigunov, R. O. Grigoriev"
+  year: 2023
+  venue: "Journal of Fluid Mechanics 970, A18"
+  doi: "10.1017/jfm.2023.584"
+  arxiv: "2209.10511"
+
+- title: "Ideal form of optical plasma lenses"
+  authors: "D. F. Gordon, A. B. Stamm, B. Hafizi, L. A. Johnson, D. Kaganovich, R. F. Hubbard, A. S. Richardson, D. Zhigunov"
+  year: 2018
+  venue: "Physics of Plasmas 25, 063101"
+
+- title: "Hawking radiation and classical tunneling: A ray phase space approach"
+  authors: "E. R. Tracy, D. Zhigunov"
+  year: 2016
+  venue: "Physics of Plasmas 23, 012101"
+  arxiv: "1509.08850"

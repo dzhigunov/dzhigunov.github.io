@@ -1,0 +1,19 @@
+```{=html}
+<% let lastYear = null; %>
+<% for (const item of items) { %>
+<% if (item.year !== lastYear) { lastYear = item.year; %>
+<h2 class="pub-year"><%= item.year %></h2>
+<% } %>
+<div class="pub">
+  <div class="pub-title"><%= item.title %><% if (item.status) { %><span class="pub-status">[<%= item.status %>]</span><% } %></div>
+  <div class="pub-authors"><%= String(item.authors).replace(/D\. Zhigunov/g, "<strong>D. Zhigunov</strong>") %></div>
+  <% if (item.venue) { %><div class="pub-venue"><%= item.venue %></div><% } %>
+  <div class="pub-links">
+    <% if (item.doi) { %><a href="https://doi.org/<%= item.doi %>">Journal</a><% } %>
+    <% if (item.arxiv) { %><a href="https://arxiv.org/abs/<%= item.arxiv %>">arXiv</a><% } %>
+    <% if (item.pdf) { %><a href="<%= item.pdf %>">PDF</a><% } %>
+    <% if (item.code) { %><a href="<%= item.code %>">Code</a><% } %>
+  </div>
+</div>
+<% } %>
+```

@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Dmitriy Zhigunov"
+  # TODO: set to your real address once the site is live (e.g. https://USERNAME.github.io)
+  site-url: "https://USERNAME.github.io"
+  description: "Academic website of Dmitriy Zhigunov: fluid dynamics, turbulence, publications and talks."
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Publications & talks"
+        href: publications/index.qmd
+      - text: "Research"
+        href: research/index.qmd
+      - text: "Affiliations"
+        href: affiliations.qmd
+    right:
+      - icon: github
+        href: https://github.com/USERNAME   # TODO
+        aria-label: GitHub
+  page-footer:
+    center: "© Dmitriy Zhigunov · Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: [flatly, styles.scss]
+      dark: [darkly, styles.scss]
+    toc: false
+    html-math-method: katex
+    smooth-scroll: true
+
+execute:
+  freeze: auto   # computed pages are re-run only when their source changes

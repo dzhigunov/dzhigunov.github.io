@@ -1,0 +1,56 @@
+---
+title: "Dmitriy Zhigunov"
+subtitle: "Postdoctoral Research Associate · School of Mathematics, University of Edinburgh"
+about:
+  template: trestles
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:dmitriy.zhigunov@gmail.com
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=atFNngMAAAAJ
+    - icon: file-earmark-text
+      text: arXiv
+      href: https://arxiv.org/a/zhigunov_d_1
+---
+
+I am a researcher studying the dynamical systems view of fluid turbulence. I am
+primarily interested in finding special solutions of the equations of fluid
+mechanics that give insight into the physical mechanisms underpinning turbulent
+flows.
+
+## Research interests
+
+- Exact coherent structures and the dynamical systems view of turbulence
+- Turbulence on spatially extended domains
+- Two-dimensional turbulence, cascades and self-similarity
+
+## Experience
+
+**University of Edinburgh**, School of Mathematics  
+Postdoctoral Research Associate · May 2024 – present
+
+## Education
+
+**Georgia Institute of Technology**  
+PhD in Physics · 2017 – 2023  
+*Thesis: Exact coherent structures and non-universality in the direct cascade in two-dimensional turbulence*  
+MS in Mathematics · 2017 – 2023
+
+**The College of William & Mary**  
+BS in Physics and BS in Mathematics · 2013 – 2017
+
+## Teaching
+
+Teaching assistant at Georgia Tech: labs and recitations for introductory
+mechanics and electricity & magnetism (in person and online), and grading and
+office hours for undergraduate electrodynamics, undergraduate and graduate
+mathematical methods, and undergraduate relativity.
+
+## Awards
+
+- SGA Conference Fund · 2023
+- Weatherly Travel Award · 2022, 2023
+- Presidential Fellowship · 2017
+- Serco Scholars Fellowship · 2016
