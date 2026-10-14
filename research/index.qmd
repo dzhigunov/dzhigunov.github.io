@@ -1,5 +1,5 @@
 ---
-title: "Research & visualisations"
+title: "Research Interests"
 listing:
   contents: "*/index.qmd"
   type: grid
@@ -8,5 +8,4 @@ listing:
   fields: [image, title, description]
 ---
 
-Figures, animations and short explanations of things I work on. Each card is a
-folder inside `research/`; copy `example-visualisation` to add a new one.
+TODO

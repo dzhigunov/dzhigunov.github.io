@@ -11,9 +11,10 @@
 - title: "Exact coherent structures as building blocks of turbulence on spatially extended domains"
   authors: "D. Zhigunov, J. Page"
   year: 2026
-  venue: "Physical Review Letters"
-  status: accepted
-  # arxiv: "TODO"
+  venue: "Physical Review Letters 137, 164001"
+  doi: "10.1103/lh7v-r983"
+  arxiv: "2601.21970"
+  pdf: "../files/Zhigunov_Page_PRL_2026.pdf"
 
 - title: "Self-similarity and the direct (enstrophy) cascade in forced two-dimensional fluid turbulence"
   authors: "M. Reynoso, D. Zhigunov, R. O. Grigoriev"
