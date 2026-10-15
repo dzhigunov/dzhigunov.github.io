@@ -4,7 +4,7 @@ listing:
   id: pubs
   contents: publications.yml
   template: pubs.ejs
-  sort: "year desc"
+  sort: "order"
   page-size: 200
 ---
 
