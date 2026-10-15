@@ -3,8 +3,6 @@ pagetitle: "Dmitriy Zhigunov"
 toc: false
 ---
 
-![](files/banner.jpg){.home-banner fig-alt="Vorticity field of a tiled exact coherent structure in Kolmogorov flow"}
-
 :::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4 .home-sidebar}

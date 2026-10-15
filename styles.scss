@@ -27,6 +27,6 @@ $font-size-root: 17px;
 .home-figures .quarto-layout-row { display: flex !important; flex-direction: row !important; flex-wrap: nowrap !important; gap: .4rem; }
 .home-figures .quarto-layout-cell { width: 33.333% !important; flex: 1 1 0 !important; flex-basis: 33.333% !important; }
 
-/* Home page banner (tiled vorticity field) */
-.home-banner { width: 100%; height: 150px; object-fit: cover; border-radius: .5rem; margin-bottom: 1.75rem; display: block; }
-@media (max-width: 767px) { .home-banner { height: 100px; } }
+/* Site-wide banner strip under the navbar (tiled vorticity field) */
+.site-banner { width: 100%; line-height: 0; }
+.site-banner img { width: 100%; height: clamp(90px, 11vw, 170px); object-fit: cover; object-position: center; display: block; }
