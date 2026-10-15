@@ -3,6 +3,9 @@ project:
   output-dir: _site
   resources:
     - files/
+  render:
+    - "*.qmd"
+    - "!research/"   # hidden until the page is filled in; remove this line to publish it
 
 website:
   title: "Dmitriy Zhigunov"
@@ -12,8 +15,6 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Research"
-        href: research/index.qmd
       - text: "Publications"
         href: publications/index.qmd
       
