@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - files/
 
 website:
   title: "Dmitriy Zhigunov"
@@ -30,7 +32,6 @@ format:
     toc: false
     html-math-method: katex
     smooth-scroll: true
-    include-after-body: banner.html
 
 execute:
   freeze: auto   # computed pages are re-run only when their source changes

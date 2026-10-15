@@ -28,6 +28,17 @@ $navbar-hl: #ffe3cf;        // hovered / active navbar item
 .home-links { display: flex; flex-wrap: wrap; justify-content: center; gap: .4rem; margin-bottom: 1.5rem; }
 .home-links p { margin: 0; display: contents; }
 
-/* Site-wide banner strip under the navbar (tiled vorticity field) */
-.site-banner { width: 100%; line-height: 0; }
-.site-banner img { width: 100%; height: clamp(90px, 11vw, 170px); object-fit: cover; object-position: center; display: block; }
+/* Navbar drawn on top of the tiled vorticity field (files/banner.jpg) */
+.navbar {
+  background: linear-gradient(rgba(20, 14, 10, .45), rgba(20, 14, 10, .45)), url("/files/banner.jpg") center / cover no-repeat;
+  min-height: clamp(96px, 11vw, 150px);
+  align-items: flex-end;
+  padding-bottom: .6rem;
+}
+.navbar .navbar-brand, .navbar .nav-link, .navbar .quarto-navbar-tools a, .navbar .quarto-color-scheme-toggle, .navbar .aa-DetachedSearchButton {
+  color: #fff !important;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, .8);
+}
+.navbar .navbar-brand { font-size: 1.6rem; font-weight: 600; }
+.navbar .nav-link.active, .navbar .nav-link:hover { color: #ffcf9f !important; }
+.navbar .navbar-toggler { border-color: rgba(255,255,255,.6); }
