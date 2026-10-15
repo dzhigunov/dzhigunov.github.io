@@ -2,12 +2,12 @@
 $font-size-root: 17px;
 
 // Colour scheme: burnt-orange accent on a warm dark navbar
-$burnt-orange: #c2500c;
-$primary: #2b2724;          // navbar / dark surfaces
+$burnt-orange: #bf4a0a;
+$primary: $burnt-orange;    // navbar background
 $success: $burnt-orange;    // flatly & darkly use $success for links and accents
 $link-color: $burnt-orange;
-$navbar-light-active-color: #e8803a;
-$navbar-dark-active-color: #e8803a;
+$navbar-fg: #ffffff;        // navbar text
+$navbar-hl: #ffe3cf;        // hovered / active navbar item
 
 /*-- scss:rules --*/
 .pub-year { margin-top: 2rem; border-bottom: 1px solid rgba(128,128,128,.35); padding-bottom: .2rem; }
