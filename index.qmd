@@ -20,16 +20,6 @@ toc: false
 [<i class="bi bi-file-earmark-text"></i> arXiv](https://arxiv.org/a/zhigunov_d_1){.btn .btn-sm .btn-outline-secondary}
 :::
 
-::: {.home-figures layout-ncol=3}
-![](files/fig1.jpg)
-
-![](files/fig2.jpg)
-
-![](files/fig3.jpg)
-:::
-
-[Vorticity fields of exact coherent structures in large-domain Kolmogorov flow, from [Zhigunov & Page, PRL 137, 164001 (2026)](https://doi.org/10.1103/lh7v-r983).]{.home-figcaption}
-
 :::
 
 ::: {.g-col-12 .g-col-md-8 .home-main}

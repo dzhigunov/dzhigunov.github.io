@@ -1,13 +1,21 @@
 /*-- scss:defaults --*/
 $font-size-root: 17px;
 
+// Colour scheme: burnt-orange accent on a warm dark navbar
+$burnt-orange: #c2500c;
+$primary: #2b2724;          // navbar / dark surfaces
+$success: $burnt-orange;    // flatly & darkly use $success for links and accents
+$link-color: $burnt-orange;
+$navbar-light-active-color: #e8803a;
+$navbar-dark-active-color: #e8803a;
+
 /*-- scss:rules --*/
 .pub-year { margin-top: 2rem; border-bottom: 1px solid rgba(128,128,128,.35); padding-bottom: .2rem; }
 .pub { margin: 1rem 0 1.25rem; }
 .pub-title { font-weight: 600; }
 .pub-authors, .pub-venue { font-size: .95rem; }
 .pub-venue { font-style: italic; opacity: .85; }
-.pub-links a { font-size: .8rem; margin-right: .4rem; padding: .05rem .5rem; border: 1px solid currentColor; border-radius: 1rem; text-decoration: none; }
+.pub-links a { color: $burnt-orange; font-size: .8rem; margin-right: .4rem; padding: .05rem .5rem; border: 1px solid currentColor; border-radius: 1rem; text-decoration: none; }
 .pub-status { font-size: .75rem; text-transform: uppercase; letter-spacing: .04em; opacity: .7; margin-left: .4rem; }
 .cv-frame { width: 100%; height: 85vh; border: 1px solid rgba(128,128,128,.35); }
 
@@ -19,13 +27,6 @@ $font-size-root: 17px;
 .home-subtitle { display: block; font-size: 1.05rem; margin-bottom: 1rem; }
 .home-links { display: flex; flex-wrap: wrap; justify-content: center; gap: .4rem; margin-bottom: 1.5rem; }
 .home-links p { margin: 0; display: contents; }
-.home-figures { margin-top: .5rem; }
-.home-figures .quarto-layout-panel { margin-bottom: 0; }
-.home-figures img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: .35rem; }
-.home-figcaption { display: block; font-size: .78rem; opacity: .75; margin-top: .5rem; line-height: 1.3; }
-.home-figures { max-width: 22rem; margin-left: auto; margin-right: auto; }
-.home-figures .quarto-layout-row { display: flex !important; flex-direction: row !important; flex-wrap: nowrap !important; gap: .4rem; }
-.home-figures .quarto-layout-cell { width: 33.333% !important; flex: 1 1 0 !important; flex-basis: 33.333% !important; }
 
 /* Site-wide banner strip under the navbar (tiled vorticity field) */
 .site-banner { width: 100%; line-height: 0; }
