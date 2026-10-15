@@ -1,19 +1,38 @@
 ---
-title: "Dmitriy Zhigunov"
-subtitle: "Postdoctoral Research Associate · School of Mathematics, University of Edinburgh"
-about:
-  template: trestles
-  links:
-    - icon: envelope
-      text: Email
-      href: mailto:dmitriy.zhigunov@ed.ac.uk
-    - icon: mortarboard-fill
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=atFNngMAAAAJ
-    - icon: file-earmark-text
-      text: arXiv
-      href: https://arxiv.org/a/zhigunov_d_1
+pagetitle: "Dmitriy Zhigunov"
+toc: false
 ---
+
+:::: {.grid}
+
+::: {.g-col-12 .g-col-md-4 .home-sidebar}
+
+<!-- When the photo arrives, uncomment the next line (file goes in files/). -->
+<!-- ![](files/profile.jpg){.profile-photo} -->
+
+[Dmitriy Zhigunov]{.home-name}
+
+[Postdoctoral Research Associate · School of Mathematics, University of Edinburgh]{.home-subtitle}
+
+::: {.home-links}
+[<i class="bi bi-envelope"></i> Email](mailto:dmitriy.zhigunov@ed.ac.uk){.btn .btn-sm .btn-outline-secondary}
+[<i class="bi bi-mortarboard-fill"></i> Google Scholar](https://scholar.google.com/citations?user=atFNngMAAAAJ){.btn .btn-sm .btn-outline-secondary}
+[<i class="bi bi-file-earmark-text"></i> arXiv](https://arxiv.org/a/zhigunov_d_1){.btn .btn-sm .btn-outline-secondary}
+:::
+
+::: {.home-figures layout-ncol=3}
+![](files/fig1.jpg)
+
+![](files/fig2.jpg)
+
+![](files/fig3.jpg)
+:::
+
+[Vorticity fields of exact coherent structures in large-domain Kolmogorov flow, from [Zhigunov & Page, PRL 137, 164001 (2026)](https://doi.org/10.1103/lh7v-r983).]{.home-figcaption}
+
+:::
+
+::: {.g-col-12 .g-col-md-8 .home-main}
 
 I am a researcher studying the dynamical systems view of fluid turbulence. I am
 primarily interested in finding special solutions of the equations of fluid
@@ -39,4 +58,6 @@ MS in Mathematics · 2017 – 2023
 **The College of William & Mary**  
 BS in Physics and BS in Mathematics · 2013 – 2017
 
+:::
 
+::::
